@@ -2,6 +2,8 @@
 
 This repo is a skeleton for a token-level NER model that tags PII in STT-style transcripts.
 
+
+The whole out folder for my model can be downloaded from: https://drive.google.com/file/d/1oOqdL9kDpWPczOdN6IoYnsrXv9wNDSiB/view?usp=sharing
 ## Setup
 
 ```bash
